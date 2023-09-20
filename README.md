@@ -1,8 +1,3 @@
-### Hi there 👋
-
-Certainly! Here's the updated code with the first section labeled as "Introduction":
-
-```markdown
 ### Introduction
 - 👋 Hi, I'm Faaiz Gul, a visual designer currently studying learning sciences and exploring how technology can enhance learning behaviors and cognitive processes of learners.
 - 👀 I'm interested in learning and gaining expertise in Web development using Javascript, Typescript, and Python to build interactive content and digital products for learning and education.
